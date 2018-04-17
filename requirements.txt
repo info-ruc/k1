@@ -106,5 +106,5 @@ Werkzeug==0.12.2
 widgetsnbextension==2.0.0
 wxPython==4.0.0b2
 zope.interface==4.4.2
-keras-contrib==2.0.8
+
 
