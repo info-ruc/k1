@@ -18,7 +18,6 @@ decorator==4.0.11
 entrypoints==0.2.3
 enum34==1.1.6
 fastzbarlight==0.0.14
-functools32==3.2.3.post2
 future==0.16.0
 get==0.0.0
 glog==0.3.1
