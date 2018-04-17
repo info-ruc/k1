@@ -82,7 +82,6 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
 stevedore==1.24.0
-subprocess32==3.2.7
 svgwrite==1.1.11
 tensorflow==1.4.0
 tensorflow-gpu==1.1.0
