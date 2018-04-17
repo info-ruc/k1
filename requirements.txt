@@ -101,6 +101,5 @@ webencodings==0.5.1
 websocket-client==0.44.0
 Werkzeug==0.12.2
 widgetsnbextension==2.0.0
-wxPython==4.0.0b2
 git+git://www.github.com/keras-team/keras-contrib.git
 
