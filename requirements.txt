@@ -39,7 +39,7 @@ jupyter==1.0.0
 jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
-Keras==2.0.3
+Keras==2.0.8
 leveldb==0.194
 lmdb==0.92
 MarkupSafe==1.0
@@ -105,4 +105,4 @@ Werkzeug==0.12.2
 widgetsnbextension==2.0.0
 wxPython==4.0.0b2
 zope.interface==4.4.2
-keras_contrib==0.0.2
+keras-contrib==2.0.8
